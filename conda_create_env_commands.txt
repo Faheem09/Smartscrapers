@@ -1,0 +1,7 @@
+
+# Create runtime environment with python, conda, pip 
+conda create --name smartscrapers "python==3.10" pip conda
+
+# Activate new enviroments
+conda activate smartscrapers 
+

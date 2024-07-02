@@ -1,0 +1,17 @@
+
+# Playwright needs additional headless browsers (Firefox and Webkit engine)
+
+playwright install
+Downloading Chromium 124.0.6367.29 (playwright build v1112) from https://playwright.azureedge.net/builds/chromium/1112/chromium-win64.zip
+134.4 MiB [====================] 100% 0.0s
+Chromium 124.0.6367.29 (playwright build v1112) downloaded to C:\Users\ffahe\AppData\Local\ms-playwright\chromium-1112
+Downloading FFMPEG playwright build v1009 from https://playwright.azureedge.net/builds/ffmpeg/1009/ffmpeg-win64.zip
+1.4 MiB [====================] 100% 0.0s
+FFMPEG playwright build v1009 downloaded to C:\Users\ffahe\AppData\Local\ms-playwright\ffmpeg-1009
+Downloading Firefox 124.0 (playwright build v1447) from https://playwright.azureedge.net/builds/firefox/1447/firefox-win64.zip
+84.2 MiB [====================] 100% 0.0s
+Firefox 124.0 (playwright build v1447) downloaded to C:\Users\ffahe\AppData\Local\ms-playwright\firefox-1447
+Downloading Webkit 17.4 (playwright build v1992) from https://playwright.azureedge.net/builds/webkit/1992/webkit-win64.zip
+47.3 MiB [====================] 100% 0.0s
+Webkit 17.4 (playwright build v1992) downloaded to C:\Users\ffahe\AppData\Local\ms-playwright\webkit-1992
+
